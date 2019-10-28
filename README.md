@@ -17,8 +17,8 @@ This project is built on the Detectron2 software system by Facebook's AI Researc
 ## Dataset
 
 Download the datasets :
-  1. Training Set - 
-  2. Validation Set - 
+  1. Training Set - [Google Drive](https://drive.google.com/open?id=1aIxosskQObf-HgKlUJFbCjUiVT-Lp8rj)
+  2. Validation Set - [Google Drive](https://drive.google.com/open?id=1PNmUNGvPesKckwks9Ls37pEVqTgvRjxn)
 
 Source :- [Github](https://github.com/beaverauv/robosub_transdec_dataset)
 
