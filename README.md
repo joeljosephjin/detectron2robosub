@@ -1,7 +1,7 @@
 # Detectron2 On Robosub Dataset
 <img src="https://media.licdn.com/dms/image/C510BAQEWABKih2_n4A/company-logo_400_400/0?e=1580342400&v=beta&t=dH2a3xvE1fTV2M-zCwm0uYA-zkTU54APrlm1sPf3a4k" width="100" >
 This project was developed aiming to hepl in the object detection task of Autonomous Underwater Vehicle(AUV)
-project in IIT(BHU) Varanasi.[LinkedIn](https://www.linkedin.com/company/auv-iit-bhu) 
+project in IIT(BHU) Varanasi.
 We have used underwater images on fast-rcnn model. The results are very good. We hope to create more data points and enhance the detection even more.
  
 ## Model
