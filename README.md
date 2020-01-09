@@ -4,7 +4,7 @@ This project was developed aiming to help in the object detection task of Autono
 project in IIT(BHU) Varanasi. 
 <a href="https://linkedin.com/company/auv-iit-bhu">LinkedIn</a>
 
-We have used underwater images on fast-rcnn model. The results are very good. We hope to create more data points and enhance the detection even more.
+We have used underwater images on mask-rcnn model. The results are very good. We hope to create more data points and enhance the detection even more.
  
 ## Model
 
